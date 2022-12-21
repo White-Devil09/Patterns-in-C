@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/*Enter the value of n
+/*
+Enter the value of n
 5
 1 2 3 4 5 
 1 2 3 4 5

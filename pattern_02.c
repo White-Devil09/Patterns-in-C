@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*Enter the value of n
-
+/*
+Enter the value of n
 5
 1 1 1 1 1
 2 2 2 2 2
